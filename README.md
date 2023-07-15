@@ -22,7 +22,7 @@ By leveraging this rich dataset and utilizing the combined CNN+RNN architecture 
 ## In addition to the code you will find attached:
 > [The project's architecture](https://github.com/Yassine-Squalli-Houssaini/Recognize-Handwritten-Arabic-Texts-by-using-a-combined-architecture-CNN-RNN-with-CTC-/blob/main/the%20project's%20architecture.pdf)
 
-> [The Results](https://github.com/Yassine-Squalli-Houssaini/Recognize-Handwritten-Arabic-Texts-by-using-a-combined-architecture-CNN-RNN-with-CTC-/blob/main/the%20project's%20architecture.pdf)
+> [The Results](https://github.com/Yassine-Squalli-Houssaini/Recognize-Handwritten-Arabic-Texts-by-using-a-combined-architecture-CNN-RNN-with-CTC-/blob/main/Results.pdf)
 
 
 
