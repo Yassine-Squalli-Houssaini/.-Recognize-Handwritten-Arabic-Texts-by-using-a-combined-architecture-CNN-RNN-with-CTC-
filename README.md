@@ -1,0 +1,1 @@
+# .-Recognize-Handwritten-Arabic-Texts-by-using-a-combined-architecture-CNN-RNN-with-CTC-
