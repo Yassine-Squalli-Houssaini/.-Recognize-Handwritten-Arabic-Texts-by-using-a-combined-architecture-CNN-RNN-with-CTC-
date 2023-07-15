@@ -19,8 +19,10 @@ To evaluate the proposed architecture, we employed [the IFN/ENIT-database](http:
 
 
 By leveraging this rich dataset and utilizing the combined CNN+RNN architecture with CTC, we aim to achieve high accuracy in recognizing handwritten Arabic texts. This research contributes to the advancement of Arabic handwriting recognition technology, facilitating applications such as automated transcription, document digitization, and language analysis in Arabic-speaking regions.
-## You will find attached:
+## In addition to the code you will find attached:
 > [The project's architecture](https://github.com/Yassine-Squalli-Houssaini/Recognize-Handwritten-Arabic-Texts-by-using-a-combined-architecture-CNN-RNN-with-CTC-/blob/main/the%20project's%20architecture.pdf)
+
+> [The Results](https://github.com/Yassine-Squalli-Houssaini/Recognize-Handwritten-Arabic-Texts-by-using-a-combined-architecture-CNN-RNN-with-CTC-/blob/main/the%20project's%20architecture.pdf)
 
 
 
