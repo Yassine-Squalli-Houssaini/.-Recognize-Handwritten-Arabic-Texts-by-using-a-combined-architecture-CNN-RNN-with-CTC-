@@ -2,7 +2,6 @@
   <img src="https://github.com/Yassine-Squalli-Houssaini/Recognize-Handwritten-Arabic-Texts-by-using-a-combined-architecture-CNN-RNN-with-CTC-/assets/127676452/50dcc618-75a0-4c46-90a9-18b501d44cb5" alt="image" width="800px">
 </div>
 
-
 ## Introduction:
 
 Handwritten Arabic text recognition has gained significant attention in recent years due to its numerous applications in fields such as document analysis, optical character recognition, and natural language processing. Developing accurate and efficient algorithms for recognizing handwritten Arabic texts poses unique challenges due to the complex nature of the Arabic script.
